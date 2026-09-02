@@ -1,0 +1,9 @@
+Place your files here:
+
+- sketch.jpg   -> the hand-drawn sketch (required for the reveal screen)
+- song.mp3     -> optional background song
+
+The app works fine even if one or both files are missing; it just
+skips that part of the experience gracefully.
+
+You can delete this text file once you've added your real files.
